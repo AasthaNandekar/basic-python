@@ -1,4 +1,4 @@
-# 🐍 basic-python
+#  🐍 basic-python
 
 > My Python learning journey — from variables to building a game, one file at a time.
 
